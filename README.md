@@ -1,4 +1,4 @@
-# hello-world
+# Little bit about myself.
 Hello, my name is Edward James(E.J.) Curtis, I am currently a hobbyist game programmer looking to enter the game industry(indie)
 I specialize - know how to use the following:
 
