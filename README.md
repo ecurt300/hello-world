@@ -30,4 +30,4 @@ Listening to a wide variety of music
 Keeping up on the latest scientific advances.
 Hanging out with friends
 
-Besides my two githubs I have an itch.io page->https://edc200.itch.io/ for my video game projects.
+Besides my two githubs I have an itch.io page->https://edc200.itch.io/ for my video game projects. I go to various meetups hosted by a local game making community called Louisville Makes Games, been going for at least two years.
