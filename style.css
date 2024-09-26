@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(126, 169, 219);
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+    opacity: 0.25;
+}
+
+header
+{
+ font-size: 650%;
+ color: chartreuse;
+ font: bold;
+ font-style: oblique;
+ text-align: center;
+}
+
+h1
+{
+ background-color: bisque;
+ font-size: 250%;
+ color: rgb(255, 0, 51);
+ font: bold;
+ font-style: oblique;
+ text-align: center;
+}
+p1
+{
+
+ font-size: 150%;
+ color: rgb(0, 255, 153);
+ font: bold;
+ font-style: oblique;
+ text-align: center;
+ text-decoration-line: underline;
+}
